@@ -1,7 +1,6 @@
 ### Olá, Wilderick aqui! 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilderick-souza-3213271bb/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 [![Kaggle](	https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/wildericksouza)
 
 ![Wilderick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wilderick-Souza&show_icons=true&theme=radical)
