@@ -1,29 +1,20 @@
-## Olá, Wilderick aqui!
+### Olá, Wilderick aqui! 👋
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilderick-souza-3213271bb/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
+[![Kaggle](	https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/wildericksouza)
+
+![Wilderick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wilderick-Souza&show_icons=true&theme=radical)
+
+## Tecnologias que utilizo no meu dia-dia
 
 <div>
+  <img align='center' alt='Python' src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd5' />
+  <img align='center' alt='numpy' src='https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white' />
+  <img align='center' alt='Pandas' src='https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white' />
+  <img align='center' alt='Matplotlib' src='https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black' />
+  <img align='center' alt='scikit-learn' src='https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white' />
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Wilderick-Souza&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilderick-Souza&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
-<br>
-
-<div  align="center"> 
- 
-    
   
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: work.luigi.fonseca@gmail.com">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
-      <img width="25" src="linkedin.svg">
-    </a>
-    <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
-      <img width="35" src="youtube.svg">
-    </a>
-    <a href = "https://www.instagram.com/devparadev/">
-      <img width="25" src="instagram.png">
-    </a>
-</div>
   
-![Snake animation](https://github.com/Wilderick-Souza/Wilderick-Souza/blob/output/github-contribution-grid-snake.svg)
+  </div>
